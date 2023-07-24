@@ -17,7 +17,7 @@ teams
 prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, give two presentations to the following groups.
 
 ## Presentation - I
-<kbd>  ![](images/p1.PNG)  </kbd>
+<kbd>  ![](Visualisation/p1.PNG)  </kbd>
 
 [PPT-I.pdf](https://github.com/Pankaj-Moralwar/AirBNB-case-study/blob/main/Presentations/PPT-I.pdf)
 
@@ -26,7 +26,7 @@ This presentation is for,
 - Lead Data Analyst: The lead data analyst looks after the entire team of data and business analysts and is technically sound.
 
 ## Presentation - II
-<kbd>  ![](images/p2.PNG)  </kbd>
+<kbd>  ![](Visualisation/p2.PNG)  </kbd>
 
 [PPT-II.pdf](https://github.com/Pankaj-Moralwar/AirBNB-case-study/blob/main/Presentations/PPT-2.pdf)
 
@@ -39,23 +39,23 @@ This presentation is for,
 [Preview Tableau Dashboard](https://github.com/Pankaj-Moralwar/AirBNB-case-study/blob/main/Visualisation/dash1.PNG)
 
 An interactive dashboard is made to provide users with a dynamic and flexible way to explore and analyze data. This allows users to interact with data in real-time and customize the display of information to suit their needs.
-<kbd>  ![](images/dash1.PNG)  </kbd>
+<kbd>  ![](Visualisation/dash1.PNG)  </kbd>
 
 ## Key findings
 These are the key findings to enhance our understanding of property and host acquisitions,operations, and customer preferences.
 
-<kbd>  ![](images/shared_rooms.PNG)  </kbd>
-<kbd>  ![](images/effects.PNG)  </kbd>
-<kbd>  ![](images/every_hosts_matter.PNG)  </kbd>
-<kbd>  ![](images/neighbourhoods.PNG)  </kbd>
+<kbd>  ![](Visualisation/shared_rooms.PNG)  </kbd>
+<kbd>  ![](Visualisation/effects.PNG)  </kbd>
+<kbd>  ![](Visualisation/every_hosts_matter.PNG)  </kbd>
+<kbd>  ![](Visualisation/neighbourhoods.PNG)  </kbd>
 
 ## Data
 This [dataset](AB_NYC_2019.csv) contains information about different Airbnb listings along with their hosts, locations, prices and other attributes.
 
-<kbd>  ![](images/data_dic.PNG)  </kbd>
+<kbd>  ![](Visualisation/data_dic.PNG)  </kbd>
 
 The [AB_NYC_2019_processed](AB_NYC_2019_processed.csv) dataset contains the cleaned,processed data with derived features.
-<kbd>  ![](images/datat.PNG)  </kbd> 
+<kbd>  ![](Visualisation/datat.PNG)  </kbd> 
 
 ## Analysis (steps)
 ### 1. Importing libraries and reading the data
